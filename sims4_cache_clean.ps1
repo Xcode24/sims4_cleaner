@@ -1,3 +1,15 @@
+# Проверка: запущена ли The Sims 4
+$GameProcesses = @("TS4_x64", "TS4")
+
+$RunningGame = Get-Process -Name $GameProcesses -ErrorAction SilentlyContinue
+
+if ($RunningGame) {
+    Write-Host "The Sims 4 сейчас запущена!"
+    Write-Host "Закрой игру и запусти очистку снова."
+    Pause
+    exit
+}
+
 # Путь к папке The Sims 4
 $SimsPath = "$env:USERPROFILE\Documents\Electronic Arts\The Sims 4"
 
@@ -49,3 +61,4 @@ if (Test-Path $ThumbCache) {
 Write-Host "Готово. Бэкап создан в:"
 Write-Host $BackupPath
 Pause
+
