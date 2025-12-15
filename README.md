@@ -37,7 +37,7 @@ ________________________________________________________________________________
 RU 
 
 Запуск:
-Просто скачай и запусти https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat
+Просто скачай и запусти [https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat](https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat)
 
 🧹 Sims 4 Cache Cleaner (PowerShell)
 
