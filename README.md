@@ -1,6 +1,9 @@
 
 EN
 
+Launch:
+Simply download and run sims4_cache_clean.bat
+
 🧹 Sims 4 Cache Cleaner (PowerShell)
 
 A utility for safely cleaning The Sims 4 cache with automatic backup creation and restore capability.
@@ -32,6 +35,9 @@ localthumbcache.package
 __________________________________________________________________________________________________________________________________________________
 
 RU 
+
+Запуск:
+Просто скачай и запусти sims4_cache_clean.bat
 
 🧹 Sims 4 Cache Cleaner (PowerShell)
 
