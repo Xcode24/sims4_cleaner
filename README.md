@@ -3,13 +3,13 @@ EN
 Launch:
 Simply download and run [sims4_cache_clean.bat](https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat)
 
-Description:
+📄 Description:
 
 🧹 Sims 4 Cache Cleaner (PowerShell)
 
 A utility for safely cleaning The Sims 4 cache with automatic backup creation and restore capability.
 
-✨ Features
+✨ Features:
 
 ✅ Cleaning The Sims 4 cache:
 
@@ -40,13 +40,13 @@ RU
 Запуск:
 Просто скачай и запусти [sims4_cache_clean.bat](https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat)
 
-Описание:
+📄 Описание:
 
 🧹 Sims 4 Cache Cleaner (PowerShell)
 
 Утилита для безопасной очистки кэша The Sims 4 с автоматическим созданием резервных копий и возможностью восстановления.
 
-✨ Возможности
+✨ Возможности:
 
 ✅ Очистка кэша The Sims 4:
 
