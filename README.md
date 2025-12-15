@@ -1,7 +1,7 @@
 EN
 
 Launch:
-Simply download and run [sims4_cache_clean.bat](https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat)
+Simply download and run [sims4_cache_clean.bat](https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat) (for Windows 10-11)
 
 📄 Description:
 
@@ -38,7 +38,7 @@ ________________________________________________________________________________
 RU 
 
 Запуск:
-Просто скачай и запусти [sims4_cache_clean.bat](https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat)
+Просто скачай и запусти [sims4_cache_clean.bat](https://github.com/Xcode24/sims4_cleaner/blob/main/sims4_cache_clean.bat) (for Windows 10-11)
 
 📄 Описание:
 
