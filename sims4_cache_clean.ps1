@@ -1,9 +1,13 @@
+﻿# Save this file as UTF-8 with BOM encoding!
+# В Блокноте: Файл -> Сохранить как -> Кодировка: UTF-8
+
 # ================== UTF-8 FIX ==================
 [Console]::OutputEncoding = [System.Text.UTF8Encoding]::new()
 [Console]::InputEncoding = [System.Text.UTF8Encoding]::new()
 [System.Globalization.CultureInfo]::CurrentUICulture = [System.Globalization.CultureInfo]::GetCultureInfo("ru-RU")
 [System.Globalization.CultureInfo]::CurrentCulture = [System.Globalization.CultureInfo]::GetCultureInfo("ru-RU")
 # ===============================================
+
 
 # Загружаем сборки Windows Forms
 Add-Type -AssemblyName System.Windows.Forms
